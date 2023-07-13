@@ -1,7 +1,7 @@
 package com.example.model;
 
 public class Android {
-
+//Fields
     private String ver;
     private String name;
     private String api;
